@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">DrugAddictionApp</string>
+    <string name="drug_addiction">Drug Addiction</string>
+    <string name="nameIsRequired">User Name is required !</string>
+    <string name="emailIsRequired">Email is required !</string>
+    <string name="please_enter_valid_email">Please enter valid email !</string>
+    <string name="passwordIsRequired">Password is  required !</string>
+    <string name="minimumLength">Minimum Password Length 8</string>
+    <string name="phone_number_is_required">Phone is required !</string>
+    <string name="ageIsRequired">Age is required !</string>
+    <string name="locationIsRequired">Location is required !</string>
+    <string name="AlreadyRegistered">This account is already registered</string>
+    <string name="noConnection">No Connection</string>
+    <string name="successRegistered">Successfully Registered</string>
+    <string name="successLogin">Successfully Login</string>
+    <string name="userNotFound">This user not found !!!</string>
+    <string name="passwordIncorrect">Password incorrect !!!</string>
+    <string name="home">Home</string>
+    <string name="calendar">Reservation</string>
+    <string name="setting">Setting</string>
+    <string name="successUpdated">Successfully Updated</string>
+    <string name="click_on_the_appropriate">Click on the appropriate time and then confirm your reservation</string>
+    <string name="today">Today</string>
+    <string name="confirm">Confirm</string>
+    <string name="cancel_appointments">Cancel appointments</string>
+    <string name="current_appointments">Current appointments</string>
+
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="don_t_have_account_register">Don\'t have account ? Register</string>
+    <string name="user_name">User Name</string>
+    <string name="phone">Phone</string>
+    <string name="age">Age</string>
+    <string name="location">Location</string>
+    <string name="register">Register</string>
+    <string name="i_have_account_login">I have account ? Login</string>
+    <string name="confirmed_successfully">Your reservation has been confirmed successfully</string>
+    <string name="doctor_name">Doctor Name</string>
+    <string name="personal_information">Personal Information</string>
+    <string name="common_questions">Common Questions ?</string>
+    <string name="night_mode">Night Mode</string>
+    <string name="day">Day :</string>
+    <string name="doctor">Doctor :</string>
+    <string name="time">Time :</string>
+    <string name="save">Save</string>
+    <string name="please_select_time">Please Select Reservation Time</string>
+    <string name="select_you">You Select </string>
+    <string name="restarted_app">The application must be restarted</string>
+
+
+
+</resources>

@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "68119552605",
+    "firebase_url": "https://drug-addiction-ba61a-default-rtdb.firebaseio.com",
+    "project_id": "drug-addiction-ba61a",
+    "storage_bucket": "drug-addiction-ba61a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:68119552605:android:90da5eba1fcd215a40e3b4",
+        "android_client_info": {
+          "package_name": "com.example.drugaddictionapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIXCzVEJg7S4OpWHAIZaifWZaYSk_ZIkI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

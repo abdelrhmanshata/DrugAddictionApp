@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">DrugAddictionApp</string>
+    <string name="drug_addiction">إدمان المخدرات</string>
+    <string name="nameIsRequired">اسم المستخدم مطلوب !</string>
+    <string name="emailIsRequired">البريد الالكتروني مطلوب !</string>
+    <string name="please_enter_valid_email">الرجاء إدخال بريد إلكتروني صحيح !</string>
+    <string name="passwordIsRequired">كلمة المرور مطلوبة !</string>
+    <string name="minimumLength">الحد الأدنى لطول كلمة المرور 8</string>
+    <string name="phone_number_is_required">الهاتف مطلوب!</string>
+    <string name="ageIsRequired">العمر مطلوب !</string>
+    <string name="locationIsRequired">الموقع مطلوب!</string>
+    <string name="AlreadyRegistered">هذا الحساب مسجل بالفعل</string>
+    <string name="noConnection">لا يوجد اتصال</string>
+    <string name="successRegistered">سجلت بنجاح</string>
+    <string name="successLogin">تم تسجيل الدخول بنجاح</string>
+    <string name="userNotFound">لم يتم العثور على هذا المستخدم !!!</string>
+    <string name="passwordIncorrect">كلمة المرور خاطئة !!!</string>
+    <string name="home">الرئيسية</string>
+    <string name="calendar">المواعيد</string>
+    <string name="setting">الأعدادات</string>
+    <string name="successUpdated">تم التحديث بنجاح</string>
+    <string name="click_on_the_appropriate">اضغط على الوقت المناسب ثم قم بتأكيد الحجز</string>
+    <string name="today">اليوم</string>
+    <string name="confirm">تاكيد</string>
+    <string name="cancel_appointments">إلغاء الموعد</string>
+    <string name="current_appointments">المواعيد الحالية</string>
+
+    <string name="email">بريد إلكتروني</string>
+    <string name="password">كلمة المرور</string>
+    <string name="login">تسجيل الدخول</string>
+    <string name="don_t_have_account_register">ليس لديك حساب ؟ يسجل</string>
+    <string name="user_name">اسم المستخدم</string>
+    <string name="phone">الهاتف</string>
+    <string name="age">العمر</string>
+    <string name="location">المنطقة</string>
+    <string name="register">تسجيل</string>
+    <string name="i_have_account_login">لدي حساب ؟ تسجيل الدخول</string>
+    <string name="confirmed_successfully">لقد تم تأكيد حجزك بنجاح</string>
+    <string name="doctor_name">اسم الطبيب</string>
+    <string name="personal_information">معلومات شخصية</string>
+    <string name="common_questions">الأسئلة الشائعة ؟</string>
+    <string name="night_mode">الوضع الليلي</string>
+    <string name="day">يوم :</string>
+    <string name="doctor">طبيب :</string>
+    <string name="time">وقت :</string>
+    <string name="save">حفظ</string>
+    <string name="please_select_time">من فضلك قم بتحديد الموعد</string>
+    <string name="select_you"> لقد أختارت  </string>
+    <string name="restarted_app">يجب إعادة تشغيل البرنامج</string>
+
+</resources>
